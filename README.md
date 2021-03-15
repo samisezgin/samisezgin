@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsPiRi
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, photographing and music
 - 🌱 I’m currently learning C++
 - 📫 How to reach me sezginsami@gmail.com
 
