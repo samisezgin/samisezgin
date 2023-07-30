@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samisezgin" alt="samisezgin" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring, Docker, C# (.NET WebAPI)**
+- 🌱 I’m currently working with **Java Spring Boot, Docker**
 
 - 📫 How to reach me **sezginsami@gmail.com**
 
