@@ -22,6 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samisezgin&show_icons=true&locale=en" alt="samisezgin" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=samisezgin&theme=dark&hide_border=false)<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samisezgin&" alt="samisezgin" /></p>
